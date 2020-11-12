@@ -2,9 +2,10 @@
 
 *{margin:0; padding:0; color:#ff0000;font-size:30px}
 p {text-transform:capitalize; font-weight:bold; color:gray; font-size:40px;}  
-h1 {font-size:400200%; color:red;}
-h2 {font-size:200%;color:blue; font-family:tahoma;}
-h3,h4 {color:#22609e;font-size:100%;background-color:#6e0e0e;margin:50px 20px 30px 40px; }
+h1 {font-size:400%; color:red;}
+h2 {font-size:200%; color:blue; font-family:tahoma;}
+h3 {font-size:100%; color: darkred;}
+h4 {font-size:100%; color: darkslategrey; background-color: darkturquoise;margin: 40%; }
 div {width: 800px;  padding: 70px ; border: 20px solid rgb(67, 85, 25); margin: 50px;}
 
 /*    comentario */
