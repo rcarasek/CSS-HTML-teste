@@ -1,3 +1,7 @@
+p {color: rgb(41, 33, 12);background-color: deepskyblue;}
+h1 {color: rgb(74, 6, 104);background-color: rgb(212, 187, 201);}
+
+
 .shape-separator {
     position: relative;
     height: 40px;
