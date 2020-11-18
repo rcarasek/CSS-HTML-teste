@@ -1,0 +1,14 @@
+ul {
+      counter-reset: counter;
+  }
+li::before {
+      counter-increment: counter;
+      counter: counters(counters,'.') ' ';
+  }
+
+p.c1:first-letter {
+    font-size: 30pt;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
